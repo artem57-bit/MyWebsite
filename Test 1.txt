@@ -1,3 +1,3 @@
 Hello my name is artem.
 This is my first commit.
-Pretend this is code.
+I changed this line.
