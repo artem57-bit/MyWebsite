@@ -1,3 +1,0 @@
-Hello my name is artem.
-This is my first commit.
-I changed this line.
